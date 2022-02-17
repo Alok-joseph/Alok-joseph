@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Alok-joseph
 - 👀 I’m interested in Making new things that blow up
 - 🌱 I’m currently learning python, javascript, kotlin
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : you can reach me with my website canvolo.netlify
 
 <!---
