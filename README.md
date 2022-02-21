@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Canvolo,netlify.app](https://canvolo.netlify.app/)
 
-- 🌱 I’m currently learning **React,flutter**
+- 🌱 I’m currently learning **VUE,flutter**
 
 - 📝 I regularly write articles on [alokjoseph111](https://alokjoseph111.medium.com/)
 
