@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **VUE,flutter**
 
-- 📝 I regularly write articles on [alokjoseph](https://alokjoseph111.medium.com/)
+- 📝 I regularly write articles on [alokjoseph](https://alokjoseph.medium.com/)
 
 - 💬 Ask me about **Python, HTML, CSS ,JS**
 
