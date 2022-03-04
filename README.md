@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **VUE,flutter**
 
-📝 I regularly write articles on [alokjoseph.com](https://alokjoseph.medium.com/)
+- 📝 I regularly write articles on [alokjoseph.com](https://alokjoseph.medium.com/)
 
 - 💬 Ask me about **Python, HTML, CSS ,JS**
 
@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/alok-joseph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alok-joseph" height="30" width="40" /></a>
- <a href="https://medium.com/@alokjoseph111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alokjoseph111" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15158264/alok-joseph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alok-joseph" height="30" width="40" /></a>
+ <a href="https://medium.com/@alokjoseph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alokjoseph" height="30" width="40" /></a>
 </p>
 </p>
 
