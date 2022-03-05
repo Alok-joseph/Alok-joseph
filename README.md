@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alok-joseph</h1>
 <h3 align="center">I am a passionate programmer who loves to make websites and games</h3>
 
-- 🔭 I’m currently working on [Canvolo,netlify.app](https://canvolo.netlify.app/)
+- 🔭 I’m currently working on [Canvolo,netlify.app](https://qclock.netlify.app/)
 
 - 🌱 I’m currently learning **VUE,flutter**
 
