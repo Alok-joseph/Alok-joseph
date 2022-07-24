@@ -1,5 +1,14 @@
 # 💫 About Me:
-🔭 I’m currently working on Fluant<br><br>🌱 I’m currently learning React,flutter<br><br>📝 I regularly write articles on Medium<br><br>💬 Ask me about Python, HTML, CSS ,JS<br><br>⚡ Fun fact Django is hard to learn<br><br>
+
+- 🔭 I’m currently working on [Fluant]()
+
+- 🌱 I’m currently learning **React,flutter**
+
+- 📝 I regularly write articles on [Medium](https://alokjoseph111.medium.com/)
+
+- 💬 Ask me about **Python, HTML, CSS ,JS**
+
+- ⚡ Fun fact **Django is hard to learn**
 
 
 ## 🌐 Socials:
