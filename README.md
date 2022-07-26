@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React,flutter**
 
-- 📝 I regularly write articles on [Medium](https://alokjoseph111.medium.com/)
+- 📝 I regularly write articles on [Medium](https://alokjoseph.medium.com/)
 
 - 💬 Ask me about **Python, HTML, CSS ,JS**
 
